@@ -1,0 +1,12 @@
+pandas==3.0.6
+sahi==0.12.6
+matplotlib==3.11.2
+pycocotools==2.0.11
+ipykernel==7.3.0
+geopandas==1.1.4
+rasterio==1.5.1
+shapely==2.1.2
+tqdm==4.70.1
+numpy==2.5.3
+pillow==12.3.0
+PyYAML==6.0.3
